@@ -1,32 +1,17 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-
-    {
-      "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [-123.24997,49.26747] 
-      },
-      "properties": {
-        "marker-symbol": "code",
-        "marker-color": "#2b3990",
-        "name": 'Vancouver'
-      }
-    },
-    
-    {
-      "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [-79.39566,43.66289] 
-      },
-      "properties": {
-        "marker-symbol": "code",
-        "marker-color": "#2b3990",
-        "name": "Toronto"
-      }
-    }
-    
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[-123.24997,49.26747]
+            },
+            "properties": {
+                "marker-symbol": "code",
+                "marker-color": "#2b3990",
+                "name": "Vancouver"
+            }
+        }
+    ]
 }
