@@ -23,6 +23,18 @@
                 "marker-color": "#2b3990",
                 "details": "<a href=''>TBD</a>"
             }
+        },
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[144.96328,-37.81411] 
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href=''>TBD</a>"
+            }
         }
     ]
 }
