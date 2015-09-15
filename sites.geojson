@@ -10,8 +10,23 @@
       },
       "properties": {
         "marker-symbol": "code",
-        "marker-color": "#2b3990"
+        "marker-color": "#2b3990",
+        "name": 'Vancouver'
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [-79.39566,43.66289] 
+      },
+      "properties": {
+        "marker-symbol": "code",
+        "marker-color": "#2b3990",
+        "name": "Toronto"
       }
     }
+    
   ]
 }
