@@ -9,7 +9,7 @@
             },
             "properties": {
                 "marker-color": "#2b3990",
-                "name": "Vancouver"
+                "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-vancouver'>Vancouver</a>"
             }
         },
         
@@ -17,11 +17,11 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates":[-79.39566,43.66289] 
+                "coordinates":[-0.12776,51.50735] 
             },
             "properties": {
                 "marker-color": "#2b3990",
-                "name": "Toronto"
+                "details": "<a href=''>TBD</a>"
             }
         }
     ]
