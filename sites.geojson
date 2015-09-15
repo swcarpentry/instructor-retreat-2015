@@ -10,8 +10,7 @@
       },
       "properties": {
         "marker-symbol": "code",
-        "marker-color": "#2b3990",
-        "etherpad": "<a href=''>Vancouver</a>"
+        "marker-color": "#2b3990"
       }
     }
   ]
