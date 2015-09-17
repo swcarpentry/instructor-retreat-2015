@@ -213,7 +213,6 @@ pre.error {
 }
 
 .navbar-brand {
-   position: absolute;
    padding-top: 7px;
 }
 
@@ -616,15 +615,6 @@ footer {
 footer a, footer a:hover{
     color:#FFF !important;
     padding-left: 10px;
-}
-
-footer .container .links {
-    background:url('../img/software-carpentry-banner-white.png') no-repeat;
-    background-size: 200px;
-    background-position: 0;
-    min-height: 40px;
-    padding: 20px 0px 0px 200px;
-    text-align: right;
 }
 
 /* Footer of every page. */
