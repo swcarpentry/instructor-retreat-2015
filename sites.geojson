@@ -12,7 +12,19 @@
                 "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-vancouver'>Vancouver</a>"
             }
         },
-        
+    
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[-97.736434, 30.286253]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href=''>Bill & Melinda Gates Computer Sciene Complex, Austin, TX</a>"
+            }
+        },
+    
         {
             "type": "Feature",
             "geometry": {
