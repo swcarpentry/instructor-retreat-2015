@@ -35,6 +35,18 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-melbourne'>University of Melbourne</a>"
             }
+        },
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[-2.2339619, 53.4674891] 
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href=''>Software Sustainability Institute @ U Manchester</a>"
+            }
         }
     ]
 }
