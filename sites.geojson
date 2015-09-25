@@ -59,6 +59,18 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-beacon'>Michigan State Univeristy, BEACON Center</a>"
             }
+        },
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[-122.3118654, 47.6533827] 
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-seattle'>eScience Institute, University of Washington</a>"
+            }
         }
     ]
 }
