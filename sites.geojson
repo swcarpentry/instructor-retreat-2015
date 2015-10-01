@@ -71,6 +71,18 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-seattle'>eScience Institute, University of Washington</a>"
             }
+        },
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[-121.5783496, 37.4773733] 
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-davis'>Davis</a>"
+            }
         }
     ]
 }
