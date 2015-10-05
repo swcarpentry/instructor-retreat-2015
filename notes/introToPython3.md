@@ -8,6 +8,8 @@ This lesson is targeted at Software Carpentry instructors looking to make the ju
 
  - `print` / `print()`
  - relative imports
+ - strings v's binary data 
+ - division
 
 ## 2. Installation
 
@@ -18,6 +20,7 @@ This lesson is targeted at Software Carpentry instructors looking to make the ju
  - `2to3` demo
  - `future` module
  - pitfalls
+ - the existance of a [porting guide](https://docs.python.org/3/howto/pyporting.html)
 
 ## 4. Common Gotchas
 
