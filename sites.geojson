@@ -81,7 +81,19 @@
             },
             "properties": {
                 "marker-color": "#2b3990",
-                "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-davis'>Davis</a>"
+                "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-davis'>Davis, CA</a>"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[-0.17721, 51.499845] 
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-london'>London</a>"
             }
         }
     ]
