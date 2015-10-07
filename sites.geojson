@@ -95,6 +95,18 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-london'>London</a>"
             }
+        },
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[-97.4080497,42.8726335] 
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-usd'>University of South Dakota</a>"
+            }
         }
     ]
 }
