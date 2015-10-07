@@ -9,7 +9,7 @@
             },
             "properties": {
                 "marker-color": "#2b3990",
-                "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-vancouver'>Vancouver</a>"
+                "details": "<a href='https://etherpad.wikimedia.org/swc-instructor-retreat-2015-vancouver'>Vancouver</a>"
             }
         },
     
@@ -21,7 +21,7 @@
             },
             "properties": {
                 "marker-color": "#2b3990",
-                "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-austin'>Bill & Melinda Gates Computer Sciene Complex, Austin, TX</a>"
+                "details": "<a href='https://etherpad.wikimedia.org/swc-instructor-retreat-2015-austin'>Bill and Melinda Gates Computer Science Complex, Austin, TX</a>"
             }
         },
     
@@ -33,7 +33,7 @@
             },
             "properties": {
                 "marker-color": "#2b3990",
-                "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-melbourne'>University of Melbourne</a>"
+                "details": "<a href='https://etherpad.wikimedia.org/swc-instructor-retreat-2015-melbourne'>University of Melbourne</a>"
             }
         },
         
@@ -45,7 +45,7 @@
             },
             "properties": {
                 "marker-color": "#2b3990",
-                "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-manchester'>Software Sustainability Institute, University of Manchester</a>"
+                "details": "<a href='https://etherpad.wikimedia.org/swc-instructor-retreat-2015-manchester'>Software Sustainability Institute, University of Manchester</a>"
             }
         },
         
@@ -57,7 +57,7 @@
             },
             "properties": {
                 "marker-color": "#2b3990",
-                "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-beacon'>Michigan State Univeristy, BEACON Center</a>"
+                "details": "<a href='https://etherpad.wikimedia.org/swc-instructor-retreat-2015-beacon'>BEACON Center, Michigan State Univeristy</a>"
             }
         },
         
@@ -69,7 +69,7 @@
             },
             "properties": {
                 "marker-color": "#2b3990",
-                "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-seattle'>eScience Institute, University of Washington</a>"
+                "details": "<a href='https://etherpad.wikimedia.org/swc-instructor-retreat-2015-seattle'>eScience Institute, University of Washington</a>"
             }
         },
         
@@ -81,7 +81,7 @@
             },
             "properties": {
                 "marker-color": "#2b3990",
-                "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-davis'>Davis, CA</a>"
+                "details": "<a href='https://etherpad.wikimedia.org/swc-instructor-retreat-2015-davis'>Davis, CA</a>"
             }
         },
         
@@ -93,7 +93,7 @@
             },
             "properties": {
                 "marker-color": "#2b3990",
-                "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-london'>London</a>"
+                "details": "<a href='https://etherpad.wikimedia.org/swc-instructor-retreat-2015-london'>Imperial College London</a>"
             }
         }
     ]
