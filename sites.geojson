@@ -107,6 +107,18 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='https://etherpad.wikimedia.org/swc-instructor-retreat-2015-usd'>University of South Dakota</a>"
             }
+        },
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[-73.5771377,45.5162525] 
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='https://etherpad.wikimedia.org/p/swc-instructor-retreat-2015-montreal'>1Science</a>"
+            }
         }
     ]
 }
