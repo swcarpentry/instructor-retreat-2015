@@ -119,6 +119,18 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='https://etherpad.wikimedia.org/p/swc-instructor-retreat-2015-montreal'>1Science, Montreal</a>"
             }
+        },
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[-79.3989676,43.6584046] 
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='https://etherpad.wikimedia.org/p/swc-instructor-retreat-2015-toronto'>Toronto</a>"
+            }
         }
     ]
 }
