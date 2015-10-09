@@ -131,6 +131,18 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='https://etherpad.wikimedia.org/p/swc-instructor-retreat-2015-toronto'>Toronto</a>"
             }
+        },
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[19.9070373,50.0690134] 
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='https://etherpad.wikimedia.org/p/swc-instructor-retreat-2015-krakow'>CYFRONET, Krakow</a>"
+            }
         }
     ]
 }
