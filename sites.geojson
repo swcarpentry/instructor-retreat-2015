@@ -155,6 +155,18 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='https://etherpad.wikimedia.org/p/swc-instructor-retreat-2015-boston'>Boston, MA</a>"
             }
+        },
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[-97.4480798,35.20803] 
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='https://etherpad.wikimedia.org/p/swc-instructor-retreat-2015-ou'>Norman, Oklahoma</a>"
+            }
         }
     ]
 }
