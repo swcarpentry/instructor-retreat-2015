@@ -191,6 +191,18 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='https://etherpad.wikimedia.org/p/swc-instructor-retreat-2015-madison'>Madison, Wisconsin</a>"
             }
+        },
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[-80.422114,37.2297019] 
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='http://pad.software-carpentry.org/swc-instructor-retreat-2015-7PM-UTC'>Virigina Tech - SWC as a University Course Live Round Table</a>"
+            }
         }
     ]
 }
